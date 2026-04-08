@@ -1,8 +1,5 @@
 [[def: global-legal-entity-identifier-system, Global Legal Entity Identifier System, GLEIS]]
 
-~ A three-level system of 
-~ 1. the Regulatory Oversight Committee (ROC) that backs and oversees 
-~ 2. the foundation (GLEIF), which in an operational sense works together with
-~ 3. partners, like QVIs
+~ The system established for the Legal Entity Identifier overseen by the Regulatory Oversight Committee (ROC), which is composed of public authorities from around the world; GLEIF, which ensures the operational integrity of the GLEIS; and LEI Issuers, which is a network of trust partners that issue LEIs.
 
-~ Also see: [[ref: global LEI Repository]]
+~ [[insert: spec/snippets/vlei-egf-source.md]]
